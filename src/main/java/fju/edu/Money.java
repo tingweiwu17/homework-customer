@@ -1,5 +1,7 @@
 package fju.edu;
 
+import fju.edu.stu.Customer;
+
 public class Money {
     public static void main(String[] args) {
         Customer[] cus = {
